@@ -1,19 +1,19 @@
 # Icons Repository 🗂
 
-Este repositório contém ícones no formato **SVG** que podem ser usados em projetos HTML, Markdown ou qualquer outra aplicação web. Os ícones estão sem cores definidas, permitindo que você personalize as cores conforme necessário. Você pode adicionar em formatos **PNG** caso desejar, basta contribuir ao projeto.
+Este repositório contém ícones no formato **SVG** e **PNG** que podem ser usados em projetos HTML, Markdown ou qualquer outra aplicação web. Os ícones estão sem cores definidas, permitindo que você personalize as cores conforme necessário.
 
 ---
 
 ## 🌟 **Como Usar**
 
 1. **Encontre o ícone desejado:**  
-   Navegue pelos arquivos do repositório e escolha o ícone que deseja usar.
+   Navegue pelos arquivos do repositório na pasta `icons` e escolha o ícone que deseja usar.
 
 2. **Copie o link do ícone:**  
    Para acessar diretamente o arquivo, use o link no seguinte formato:
 
    ```
-   https://raw.githubusercontent.com/onlyredz/my-icons/main/example-icon.svg
+   https://raw.githubusercontent.com/onlyredz/my-icons/main/icons/example-icon.svg
    ```
 
 3. **Insira o ícone no seu projeto e defina a cor:**  
@@ -22,13 +22,13 @@ Este repositório contém ícones no formato **SVG** que podem ser usados em pro
    **HTML com cor personalizada:**
    ```html
    <svg width="50" height="50" fill="#E34F26">
-       <use xlink:href="https://raw.githubusercontent.com/onlyredz/my-icons/main/example-icon.svg#icon-id"></use>
+       <use xlink:href="https://raw.githubusercontent.com/onlyredz/my-icons/main/icons/example-icon.svg#icon-id"></use>
    </svg>
    ```
 
    **Ou diretamente no `img` com cor padrão:**
    ```html
-   <img src="https://raw.githubusercontent.com/onlyredz/my-icons/main/example-icon.svg" alt="Example Icon" style="width: 50px; height: 50px; fill: #E34F26;">
+   <img src="https://raw.githubusercontent.com/onlyredz/my-icons/main/icons/example-icon.svg" alt="Example Icon" style="width: 50px; height: 50px; fill: #E34F26;">
    ```
 
 4. **Use as cores oficiais do Simple Icons:**  
@@ -38,7 +38,7 @@ Este repositório contém ícones no formato **SVG** que podem ser usados em pro
 
 ## 📂 **Estrutura do Repositório**
 
-Todos os ícones estão localizados na raiz deste repositório para facilitar o acesso. Certifique-se de usar os nomes dos arquivos corretamente ao copiá-los.
+Todos os ícones estão localizados na pasta `icons` dentro deste repositório para facilitar o acesso. Certifique-se de usar os nomes dos arquivos corretamente ao copiá-los.
 
 ---
 
@@ -49,7 +49,7 @@ Se estiver usando o conteúdo SVG diretamente no HTML, adicione o atributo `fill
 
 ```html
 <svg width="50" height="50" fill="#0078D7">
-    <use xlink:href="https://raw.githubusercontent.com/onlyredz/my-icons/main/example-icon.svg#icon-id"></use>
+    <use xlink:href="https://raw.githubusercontent.com/onlyredz/my-icons/main/icons/example-icon.svg#icon-id"></use>
 </svg>
 ```
 
@@ -85,13 +85,13 @@ Contribuições são muito bem-vindas! Siga os passos abaixo para colaborar:
    ```
 
 4. **Adicione ou atualize ícones:**  
-   - Certifique-se de que os arquivos estejam no formato **SVG** e sem cor definida.
-   - Mantenha os nomes dos arquivos descritivos e padronizados (ex.: `icon-nome.svg`).
+   - Certifique-se de que os arquivos estejam no formato **SVG** e **PNG**, e sem cor definida.
+   - Mantenha os nomes dos arquivos descritivos e padronizados (ex.: `icon-nome.svg` ou `icon-nome.png`).
 
 5. **Faça um commit das alterações:**  
    ```bash
    git add .
-   git commit -m "Adicionei os icones HTML5 SVG e PNG"
+   git commit -m "Adicionei os ícones HTML5 SVG e PNG"
    ```
 
 6. **Envie suas alterações para o GitHub:**  
@@ -111,9 +111,8 @@ Caso tenha dúvidas ou sugestões, entre em contato comigo abrindo uma issue nes
 ---
 
 ✨ **Feito para praticidade por [REDZ](https://github.com/onlyredz)** ✨
- 
 
-   _Por que usar SVG sem cor?_
+_Por que usar SVG sem cor?_
 - **Flexibilidade:** Permite que os usuários apliquem cores específicas conforme o design do projeto.
 - **Tamanho reduzido:** Ícones em SVG são leves e escaláveis.
 - **Personalização com Simple Icons:** Fácil de combinar com cores oficiais usando os códigos HEX disponíveis no site.
