@@ -110,12 +110,10 @@ Caso tenha dúvidas ou sugestões, entre em contato comigo abrindo uma issue nes
 
 ---
 
-✨ **Feito com ❤️ por [REDZ](https://github.com/onlyredz)** ✨
-```
+✨ **Feito para praticidade por [REDZ](https://github.com/onlyredz)** ✨
+ 
 
----
-
-### **Por que usar SVG sem cor?**
+   _Por que usar SVG sem cor?_
 - **Flexibilidade:** Permite que os usuários apliquem cores específicas conforme o design do projeto.
 - **Tamanho reduzido:** Ícones em SVG são leves e escaláveis.
 - **Personalização com Simple Icons:** Fácil de combinar com cores oficiais usando os códigos HEX disponíveis no site.
