@@ -1,4 +1,4 @@
-# Icons Repository
+# Icons Repository 🗂
 
 Este repositório contém ícones no formato **SVG** que podem ser usados em projetos HTML, Markdown ou qualquer outra aplicação web. Os ícones estão sem cores definidas, permitindo que você personalize as cores conforme necessário. Você pode adicionar em formatos **PNG** caso desejar, basta contribuir ao projeto.
 
