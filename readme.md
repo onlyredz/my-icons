@@ -91,7 +91,7 @@ Contribuições são muito bem-vindas! Siga os passos abaixo para colaborar:
 5. **Faça um commit das alterações:**  
    ```bash
    git add .
-   git commit -m "Adicionei novos ícones em SVG"
+   git commit -m "Adicionei os icones HTML5 SVG e PNG"
    ```
 
 6. **Envie suas alterações para o GitHub:**  
